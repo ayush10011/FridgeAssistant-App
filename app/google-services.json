@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213930847713",
+    "project_id": "fridgeassistant-b1fb9",
+    "storage_bucket": "fridgeassistant-b1fb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213930847713:android:7582dd061ddafcbb4676a0",
+        "android_client_info": {
+          "package_name": "com.example.fridgeassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHT-OHFMEZCpHXrwXRCisXA2RhuGDZpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
